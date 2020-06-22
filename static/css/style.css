@@ -63,6 +63,9 @@ textarea {
     margin-top: -100px; 
     clear:both; */
 }
+.footer a {
+    color:#8c8c8c;
+}
 /* logo start  */
 .logo-box {
     display: flex;
